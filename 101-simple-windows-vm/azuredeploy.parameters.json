@@ -3,17 +3,18 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "majgstore1"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "m1guel"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Y5xm68sX"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
-    }
+      "value": "majg4312"
+    },"location":{	"value":"West US"},
+    "sizeOfDiskInGB":{	"value":"20"}
   }
 }
 
